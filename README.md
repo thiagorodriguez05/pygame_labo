@@ -1,1 +1,1 @@
-# pygame_labo
+# juego_labo
